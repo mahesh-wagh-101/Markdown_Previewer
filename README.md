@@ -3,7 +3,7 @@
 <div align="center">
   <br/>
 
-  <h1><b>Markdown Previewer</b></h1>
+  <h1><b>Staging Markdown Previewer</b></h1>
 
 </div>
 
